@@ -6,10 +6,6 @@
 # Data: 12/06/2022
 ##########################################
 
-#eu acho que funciona agora; me avise de qualquer problema que precise ser corrigido, pf :")
-#e na última aula foi dito q a str TINHA q ser chamada strCPF mas apesar de ela começar como strcpf
-#depois da linha 22 ela vira strCPF como pedido
-
 import random
 
 def checaCPF(strcpf):
